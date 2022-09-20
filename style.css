@@ -1,0 +1,37 @@
+body{
+    margin: 0;
+}
+
+header{
+    background-color: rgb(240, 208, 27);
+    border-radius: 10px;
+    margin-left: 10px;
+    margin-right: 10px;
+    height: 150px;
+    margin-top: 5px;
+    padding: 12px;
+
+}
+
+nav{
+    background-color: rgb(226, 119, 31);
+    border-radius: 10px;
+    margin-top: 5px;
+    margin-left: 10px;
+    margin-right: 10px;
+    width: 300px;
+    height: 590px;
+    padding-top: 12px;
+    padding-left: 5px;
+    float: left;
+}
+
+#content{
+    margin-left: 350px;
+    margin-right: 20px;
+    margin-top: 5px;
+    border-radius: 10px;
+    width: 990px;
+    height: 600px;
+    background-color: rgb(108, 170, 111);
+}
